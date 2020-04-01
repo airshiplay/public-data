@@ -1,6 +1,6 @@
 {
   "packageName": "com.airletnet.taxcalculator",
-  "enable": true,
+  "enable": false,
   "appId": "1107893022",
   "bannerPosId": "9000740145732277",
   "banner2PosId": "8031901371560168",
